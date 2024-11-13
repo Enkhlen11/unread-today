@@ -46,7 +46,28 @@
   .comment {
     max-width: 600px;
   }
+  .comment-m {
+    width: 500px;
+  }
+  .comm-img-flex {
+    width: 200px;
+  }
+  .comm-img-flex p {
+    font-size: 16px;
+    width: 200px;
+  }
   .first {
     margin: 0;
+    width: 580px;
   }
+  first :nth-child(even) {
+    width: 580px;
+  }
+  .flex-div-1 {
+    display: block;
+  }
+}
+.suudal img {
+  width: 100px;
+  height: 100px;
 }
