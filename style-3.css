@@ -45,9 +45,12 @@
   }
   .comment {
     max-width: 600px;
+    display: block;
   }
+
   .comment-m {
-    width: 500px;
+    width: 560px;
+    height: 132px;
   }
   .comm-img-flex {
     width: 200px;
@@ -58,16 +61,154 @@
   }
   .first {
     margin: 0;
-    width: 580px;
+    width: 560px;
+
+    margin-bottom: 20px;
   }
-  first :nth-child(even) {
+  /* .first :nth-child(even) {
     width: 580px;
-  }
+  } */
   .flex-div-1 {
     display: block;
   }
-}
-.suudal img {
-  width: 100px;
-  height: 100px;
+
+  .suudal img {
+    width: 100px;
+    height: 100px;
+  }
+  /* .pro-name-flex:nth-child(even) {
+  display: flex;
+  align-self: flex-start;
+} */
+  .flex-div-1 {
+    width: 580px;
+    margin-bottom: 500px;
+  }
+  .flex-div-2 {
+    margin-bottom: 20px;
+  }
+  .flex-div-1-1 {
+    width: 580px;
+    margin-right: 0%;
+    margin-bottom: 20px;
+  }
+  .sibling-background {
+    width: 580px;
+  }
+  .leaf-flex {
+    margin: 0%;
+    margin-bottom: 20px;
+  }
+  .leaf {
+    width: 275px;
+    height: 200px;
+  }
+  .leaf-right {
+    width: 275px;
+    height: 200px;
+    margin-top: 10px;
+  }
+  .sibling-text {
+    width: 100%;
+    margin-top: -70px;
+  }
+  .sibling-right-text {
+    width: 100%;
+    margin-top: -70px;
+  }
+  .flex-div-2-2 {
+    width: 275px;
+    height: 200px;
+  }
+  .flex-div-2-3 {
+    width: 275px;
+    height: 200px;
+  }
+  .bbc-text {
+    width: 100%;
+    margin-top: -100px;
+  }
+  .monster-text {
+    width: 100%;
+    margin-top: -100px;
+  }
+  .flex-div-2-4 {
+    width: 275px;
+    height: 200px;
+  }
+  .special-text {
+    margin-top: -100px;
+  }
+  .flex-div-2-5 {
+    width: 275px;
+    height: 200px;
+  }
+  .porshe-text {
+    margin-top: -100px;
+  }
+  .special-text {
+    width: 100%;
+  }
+  .porshe-text {
+    width: 100%;
+  }
+  .border-radius {
+    margin-top: -300px;
+  }
+  .pro-name-flex {
+    width: 500px;
+  }
+  .footer {
+    width: 600px;
+  }
+  .icons-2 {
+    width: 600px;
+    padding: 40px;
+  }
+  /* footer */
+  .footer-1 {
+  }
+  .footer-logo {
+    width: 280px;
+  }
+  .animation-botton {
+    width: 300px;
+    margin: 0%;
+    margin-top: 10px;
+  }
+  .animation-flex {
+    height: 99px;
+  }
+  .circle {
+    width: 70px;
+    height: 40px;
+    font-size: 15px;
+  }
+  .blue-store {
+    width: 300px;
+  }
+  .blue-store img {
+    width: 140px;
+    height: 40px;
+  }
+  .media-query {
+    margin-top: 50px;
+    width: 350px;
+    font-size: 12px;
+  }
+  .text-2024 {
+    display: none;
+  }
+  .flex-li {
+    display: none;
+  }
+  .text-3 {
+    display: none;
+  }
+  .first-footer {
+    gap: 3px;
+  }
+  .flex-box-div {
+    width: 550px;
+  }
 }

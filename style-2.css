@@ -524,3 +524,55 @@
   background-image: url(./paper.jpg);
   background-size: cover;
 }
+.flex-li-1 {
+  display: flex;
+  gap: 11px;
+}
+.flex-li-1 p {
+  color: white;
+  font-size: 13px;
+}
+.text-2024-1 {
+  font-size: 12px;
+  color: white;
+  width: 350px;
+  height: 60px;
+  margin-top: 10px;
+  color: gray;
+}
+.flex-li-1 li {
+  color: white;
+  font-size: 13px;
+  width: 300px;
+}
+.media-company p {
+  font-size: 14px;
+  color: gray;
+  line-height: 20px;
+  transition: all 0.3s;
+}
+.media-company p:hover {
+  transform: translateX(2px);
+  color: white;
+}
+.media-company nav {
+  font-size: 14px;
+  color: gray;
+}
+.media-company h5 {
+  color: rgb(22, 22, 168);
+  font-size: 15px;
+  line-height: 20px;
+}
+.media-company a:hover {
+  font-size: 14px;
+  color: rgb(199, 199, 199);
+  transition: all 0.3s;
+}
+
+.media-company {
+  display: none;
+}
+.text-20 {
+  display: none;
+}
