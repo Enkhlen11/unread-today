@@ -211,4 +211,7 @@
   .flex-box-div {
     width: 550px;
   }
+  .media-company {
+    display: block;
+  }
 }
